@@ -1,0 +1,21 @@
+product_id,quantity_in_stock,reorder_level,last_restock_date,warehouse_location,product_name
+P001,121,37,2025-02-22,Warehouse-A,Keep Pants
+P002,35,18,2025-02-28,Warehouse-D,Under Lamp
+P003,48,15,2025-04-10,Warehouse-B,Sea Blender
+P004,142,18,2025-02-28,Warehouse-C,Finish Desk
+P005,98,36,2025-03-12,Warehouse-D,Former Microwave
+P006,92,39,2025-02-27,Warehouse-C,People Blender
+P007,106,48,2025-03-07,Warehouse-A,Shake Pants
+P008,39,37,2025-03-13,Warehouse-A,Look Speaker
+P009,73,49,2025-03-06,Warehouse-D,Sometimes Hat
+P010,171,21,2025-03-02,Warehouse-C,Religious Toaster
+P011,32,39,2025-03-10,Warehouse-A,Listen Microwave
+P012,34,42,2025-04-20,Warehouse-D,Price Table
+P013,2,37,2025-04-16,Warehouse-A,System Lamp
+P014,18,45,2025-03-13,Warehouse-B,Evidence Tablet
+P015,165,38,2025-03-16,Warehouse-C,Growth Phone
+P016,4,34,2025-04-12,Warehouse-D,Why Food Processor
+P017,36,32,2025-03-01,Warehouse-A,Try Toaster
+P018,184,24,2025-04-04,Warehouse-A,Take Chair
+P019,124,21,2025-04-08,Warehouse-B,Culture Phone
+P020,168,37,2025-03-24,Warehouse-D,Development Microwave
